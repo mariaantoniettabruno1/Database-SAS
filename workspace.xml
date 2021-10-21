@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5669f00d-57a3-4dad-b5d0-c835a6d87655" name="Changes" comment="Database SAS project" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1xqpBDwNEsxioYsdsLM4bQ3c18V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunConfigurationTargetLRU" value="b95ca638-0378-4531-8e0a-8f242cff3cb1" />
+    <property name="RunOnceActivity.OpenDatabaseViewOnStart" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DatabaseScript">
+      <script-file value="$USER_HOME$/Downloads/catering_init_01-2021.sql~1/catering_init_01-2021.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="b95ca638-0378-4531-8e0a-8f242cff3cb1" />
+      <method v="2" />
+    </configuration>
+    <configuration name="catering_init_01-2021.sql" type="DatabaseScript" nameIsGenerated="true">
+      <script-file value="$USER_HOME$/Downloads/catering_init_01-2021.sql~1/catering_init_01-2021.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="b95ca638-0378-4531-8e0a-8f242cff3cb1" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Database SAS project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Database SAS project" />
+  </component>
+</project>
